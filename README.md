@@ -1,10 +1,14 @@
 # git-recent
 CLI tool to quickly (git) switch back to recent branches. Leverages [Huh](https://github.com/charmbracelet/huh) to provide a nice and simple selection
 
+<img width="296" height="124" alt="image" src="https://github.com/user-attachments/assets/50de7d19-277a-4422-81a1-99eaeb38be02" />
+
 ## Features
 - Shows your last **5** visited branches (deduplicated) by default.
 - Navigate with **Arrow keys** or Vim keys (`j`/`k`).
 - Works automatically as a native git command (`git recent`).
+
+
 
 ## Installation
 
