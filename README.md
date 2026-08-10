@@ -14,7 +14,7 @@ CLI tool to quickly (git) switch back to recent branches. Leverages [Huh](https:
 
 ### Option A: Using Go (Recommended)
 ```bash
-go install [github.com/YOUR_USERNAME/git-recent@latest](https://github.com/YOUR_USERNAME/git-recent@latest)
+go install github.com/gld3n/git-recent@latest
 ```
 
 ### Option B: Manual
